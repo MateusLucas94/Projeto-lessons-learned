@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+
+body{
+    background-color: rgb(253, 251, 251);
+    margin: 0%;
+    padding: 0%; 
+    border: 0;
+}
+
+#cabecalho{
+    background-image: url(/padrao-de-grade-de-losango-dourado-sem-costura-em-fundo-preto_53876-97589.jpg);
+    height: 150px;
+    width: 101%;
+    margin-left: 0%;
+    position: fixed;
+    top: 0; 
+}
+
+
+#header-text{
+    border: 4px;
+    height: 50px;
+    background-position: center;
+    padding-top: 1%;
+    padding-left: 20%;
+}
+
+#minhafoto{
+    padding-top: 15%;
+    width: 300px;
+    padding-left: 5%;
+}
+
+#meulink{
+    padding-left: 5%;
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 1em;
+    margin-block-end: 2em;
+    margin-inline-start: 250px;
+    margin-inline-end: 330px;
+    font-weight: bold;  
+    color: gray;  
+}
+
+#licoes{
+   padding-left: 3%;
+    
+
+
+}
+
+.licoes2{
+    
+    display: inline-block;
+    text-align: left;
+    margin: 30px;
+}
+
+#meuscomentarios{
+    
+    width: 106%;
+    padding-left: 5%;
+}
+
+.coments{
+    
+    width: 45%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    padding-bottom: 5%;
+}
+
+#rodape{
+    padding-left: 5%;
+}
